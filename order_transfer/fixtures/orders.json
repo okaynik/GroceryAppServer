@@ -1,0 +1,18 @@
+[
+  {
+    "model": "order_transfer.order",
+    "pk": 1,
+    "fields": {
+      "ordertext": "Coca-cola, Bread, Soap",
+      "amount" : "3, 2, 1"
+    }
+  },
+  {
+    "model": "order_transfer.order",
+    "pk": 2,
+    "fields": {
+      "ordertext": "Pepsi, Tide, Banana",
+      "amount" : "4, 6, 7"
+    }
+  }
+]
